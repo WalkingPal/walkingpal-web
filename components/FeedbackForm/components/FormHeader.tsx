@@ -37,8 +37,8 @@ export const FormHeader: FC<IFormHeader> = ({}) => {
 						<Typography variant="subtitle1" component="h4" id="contact">
 							Contact
 						</Typography>
-						<Typography variant="body2">hello.walkingpal@gmail.com</Typography>
-						<Typography variant="body2">(+91) 78943 14020</Typography>
+						<Typography variant="body2">support@walkingpal.in</Typography>
+						<Typography variant="body2">(+91) 63718 09652</Typography>
 					</Box>
 				</Box>
 			</Box>
